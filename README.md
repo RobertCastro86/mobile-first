@@ -13,7 +13,7 @@ Este é um menu responsivo e elegante, ideal para dispositivos móveis. Perfeito
 
 - HTML5
 - CSS3
-- FontAwesome
+- Google Fonts
 
 ## Estrutura do Projeto
 
@@ -36,6 +36,19 @@ Este é um menu responsivo e elegante, ideal para dispositivos móveis. Perfeito
 
 3. **Botão de Ação**
    - Um botão destacado para ações importantes, como “Cadastrar” ou “Iniciar Conversa”.
+  
+### Estrutura de Pastas CSS
+
+1. **Reset**
+   - Contém estilos globais e reset de CSS.
+   - Exemplo: `reset.css`
+
+2. **Responsive**
+   - Estilos específicos para o layout do site, incluindo o header responsivo.
+   - Exemplo: `layout.css`
+3. **Style**
+   - Essa estrutura facilita a manutenção e a organização do código CSS, garantindo que cada parte do site seja facilmente gerenciável e adaptável a diferentes dispositivos.
+   - Exemplo: `style.css`
    
 
 ## Como Usar
@@ -43,8 +56,9 @@ Este é um menu responsivo e elegante, ideal para dispositivos móveis. Perfeito
 1. Clone este repositório ou baixe os arquivos para o seu computador.
 2. Substitua as imagens de exemplo (`sua-foto-perfil.png` e `seu-projeto-destaque.png`) pelas suas próprias imagens.
 3. Atualize o conteúdo HTML com suas informações pessoais, projetos e detalhes de contato.
-4. Customize os estilos no arquivo `style.css` conforme necessário.
+4. Customize os estilos no arquivo `reset.css` para redefinir os estilos padrão.
 5. Use o arquivo `responsive.css` para ajustar o design responsivo para diferentes dispositivos.
+6. Personalize os estilos no arquivo `style.css` conforme necessário.
 
 ## Fontes e Recursos
 
