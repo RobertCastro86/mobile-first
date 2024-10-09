@@ -45,7 +45,8 @@ Este é um menu responsivo e elegante, ideal para dispositivos móveis. Perfeito
 
 2. **Responsive**
    - Estilos específicos para o layout do site, incluindo o header responsivo.
-   - Exemplo: `layout.css`
+   - Exemplo: `responsive.css`
+   - 
 3. **Style**
    - Essa estrutura facilita a manutenção e a organização do código CSS, garantindo que cada parte do site seja facilmente gerenciável e adaptável a diferentes dispositivos.
    - Exemplo: `style.css`
