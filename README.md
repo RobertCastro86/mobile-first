@@ -25,21 +25,18 @@ Este é um menu responsivo e elegante, ideal para dispositivos móveis. Perfeito
 - `css/style.css`: Estilos principais do site.
 - `image/logo.png`: Imagem do logo da empresa
 
-### Estrutura HTML
+### Menu Header Responsivo
 
-O site é dividido em três seções principais, cada uma representada por um widget:
+1. **Logotipo**
+   - Exibe o logotipo do site no canto superior esquerdo.
 
-1. **Widget 1 (Topo)**
-   - Exibe informações do usuário, incluindo foto de perfil, nome, cargo e uma breve descrição.
-   - Exibe o último projeto do usuário com um link para acessar o site.
+2. **Navegação Principal**
+   - Contém links para as principais seções do site, como “Sobre”, “Projetos”, “Serviços” e “Contato”.
+   - Os links são organizados de forma horizontal em telas maiores e se transformam em um menu hambúrguer em dispositivos móveis.
 
-2. **Widget 2 (Centro)**
-   - Contém links para redes sociais.
-   - Lista das habilidades do usuário com ícones representativos.
-
-3. **Widget 3 (Rodapé)**
-   - Descreve os serviços oferecidos pelo usuário.
-   - Informações de contato com um botão para iniciar uma conversa.
+3. **Botão de Ação**
+   - Um botão destacado para ações importantes, como “Cadastrar” ou “Iniciar Conversa”.
+   
 
 ## Como Usar
 
